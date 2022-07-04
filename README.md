@@ -20,8 +20,8 @@
 
 As you can see in the following screenshots, running this code for each of the given years timed in at over 1 second.
 
-![OriginalCodeRuntime2017](resources/OriginalCodeRuntime2017.png)   
-![OriginalCodeRubtime2018](resources/OriginalCodeRubtime2018.png)
+![OriginalCodeRuntime2017](resources/OriginalCodeRunTime2017.png)   
+![OriginalCodeRuntime2018](resources/OriginalCodeRunTime2018.png)
 
 ###To refactor the code we used in Module 2, we instead created an array for each of the decision making factor information variables and ran a single for loop using conditionals to generate the values for each of the 12 tickers. See the below screenshot for code details.
 
